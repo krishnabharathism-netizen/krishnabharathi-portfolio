@@ -1,0 +1,9 @@
+{
+  "welcome": "Bienvenue",
+  "login": "Connexion",
+  "logout": "Déconnexion",
+    "signup_button": "S'inscrire",
+    "back_to_home": "Retour à l'accueil",
+  "Settings": "Paramètres",
+  "home_screen_title": "Écran d'accueil"
+}
