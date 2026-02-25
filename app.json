@@ -25,6 +25,7 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
+      "bundler": "metro",
       "output": "static",
       "favicon": "./assets/images/logo1.png"
     },
@@ -47,6 +48,9 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "assets": [
+      "./assets/pdf/resume.pdf"
+    ]
   }
 }
