@@ -32,7 +32,7 @@ krishnabharathi-portfolio/
 ├── assets/
 │   ├── images/                   # Profile pic + project screenshots
 │   │   ├── profile.png           ← YOUR PHOTO HERE
-│   │   ├── y1.png → y7.png       ← Yaazhtech screenshots
+│   │   ├── y1.png → y7.png       ← Myenum screenshots
 │   │   ├── g1.png → g3.png       ← Gaming app screenshots
 │   │   └── icon.png, splash.png  ← App icon
 │   ├── pdf/
@@ -68,7 +68,7 @@ node scripts/setup-assets.js
 ### Step 3: Add Your Real Assets
 Replace placeholder files with your actual assets:
 - `assets/images/profile.png` — Your profile photo (square, min 400x400)
-- `assets/images/y1.png` to `y7.png` — Yaazhtech project screenshots
+- `assets/images/y1.png` to `y7.png` — Myenum project screenshots
 - `assets/images/g1.png` to `g3.png` — Gaming app screenshots
 - `assets/pdf/resume.pdf` — Your resume
 - `assets/sound/backgroundSound.mp3` — Background music

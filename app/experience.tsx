@@ -237,7 +237,7 @@ const ExperienceCard: React.FC<{
       </View>
 
       {/* Website */}
-      {exp.website ? (
+      {/* {exp.website ? (
         <Pressable
           onPress={() => Linking.openURL(exp.website)}
           style={({ pressed }) => [
@@ -262,7 +262,7 @@ const ExperienceCard: React.FC<{
             🌐  Visit Website
           </Text>
         </Pressable>
-      ) : null}
+      ) : null} */}
     </Animated.View>
   );
 };
