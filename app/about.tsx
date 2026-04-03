@@ -532,8 +532,8 @@ export default function AboutScreen() {
               <View style={styles.profileStats}>
                 {[
                   ['6+', 'Month Exp'],
-                  ['3+', 'Projects'],
-                  ['2+', 'Clients'],
+                  ['15+', 'Projects'],
+                  ['1+', 'Clients'],
                 ].map(([num, label], i) => (
                   <React.Fragment key={label}>
                     {i > 0 && (
@@ -583,41 +583,17 @@ export default function AboutScreen() {
                 { color: colors.textSecondary, fontSize: bodyFontSize, lineHeight: bodyFontSize * 1.6 },
               ]}
             >
-              I am a highly motivated and detail-oriented Full Stack Developer with a strong
-              foundation in software engineering principles and hands-on experience in building
-              scalable web and mobile applications. With a Master's degree in Computer Applications
-              and a background in Mathematics, I bring strong analytical thinking, problem-solving
-              ability, and technical expertise to software development. My core competencies include
-              Java, Spring Boot, RESTful API development, React.js, and React Native, along with
-              experience in relational and NoSQL databases. I am passionate about designing efficient
-              backend systems, creating responsive user interfaces, and delivering high-quality
-              solutions aligned with business requirements.
+              I am a results-driven Full Stack Developer with a strong foundation in software engineering and hands-on experience in building scalable web and mobile applications. I hold a Master’s degree in Computer Applications, complemented by a background in Mathematics, which strengthens my analytical thinking and problem-solving abilities.
+              I am passionate about developing efficient, user-focused solutions and continuously improving my technical skills to deliver high-quality software.
               {'\n\n'}
-              During my professional internship experience, I contributed to the development of a
-              full-stack E-Learning platform, where I was responsible for implementing REST APIs,
-              integrating secure authentication mechanisms using JWT, and ensuring seamless
-              communication between frontend and backend systems. I also worked on performance
-              optimization, UI responsiveness, and feature enhancements, which strengthened my
-              understanding of real-world development environments, agile collaboration, and software
-              lifecycle management. My exposure to tools such as Git, Postman, cloud services, and
-              modern development environments has enabled me to adapt quickly to new technologies
-              and workflows.
+              My core skill set includes Java, Spring Boot, RESTful API development, and React Native, along with experience in NoSQL databases such as DynamoDB. I specialize in designing efficient backend systems, developing clean and maintainable APIs, and creating responsive, user-friendly interfaces that align with business needs.
               {'\n\n'}
-              I have successfully developed multiple academic and personal projects, including a
-              cross-platform mobile gaming application and a comprehensive library management system.
-              These projects demonstrate my ability to architect scalable applications, manage
-              databases efficiently, and implement secure user management systems. I am particularly
-              interested in backend engineering, system design, and integrating emerging technologies
-              such as Artificial Intelligence into modern applications to create intelligent and
-              user-centric solutions.
+              During my internship as a Software Developer, I contributed to the development of a full-stack application where I implemented REST APIs, developed student onboarding and test workflows, and worked on AI-based evaluation features. I also integrated secure authentication mechanisms using JWT, improved application performance, and participated in Agile development processes. My experience includes working across the full software development lifecycle—from development to deployment on AWS—while collaborating effectively within a team environment.
               {'\n\n'}
-              As an aspiring software professional, I am seeking opportunities to contribute to
-              dynamic organizations where I can leverage my technical skills, collaborate with
-              cross-functional teams, and deliver impactful software products. I am committed to
-              continuous learning, professional growth, and maintaining high standards of code
-              quality and performance. My long-term objective is to evolve into a proficient
-              software engineer capable of building robust, scalable, and innovative technology
-              solutions that drive organizational success.
+              I have also developed projects such as a Library Management System, where I implemented role-based access control, optimized database performance, and designed scalable system architecture. These experiences have strengthened my ability to build robust, secure, and efficient applications.
+              I am particularly interested in backend engineering, system design, and leveraging emerging technologies like Artificial Intelligence to build intelligent, scalable solutions. I am committed to continuous learning, writing high-quality code, and delivering impactful software products.
+              {'\n\n'}
+              Currently, I am seeking opportunities where I can contribute my skills, grow as a software engineer, and be part of a dynamic team building innovative technology solutions.
             </Text>
           </View>
         </AnimatedSection>
