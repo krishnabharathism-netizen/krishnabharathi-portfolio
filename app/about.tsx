@@ -533,7 +533,7 @@ export default function AboutScreen() {
                 {[
                   ['6+', 'Month Exp'],
                   ['15+', 'Projects'],
-                  ['1+', 'Clients'],
+                  ['2+', 'Clients'],
                 ].map(([num, label], i) => (
                   <React.Fragment key={label}>
                     {i > 0 && (
