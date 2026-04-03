@@ -17,7 +17,6 @@ export default function RootLayout() {
           }}
         >
           <Stack.Screen name="index" options={{ headerShown: false }} />
-          <Stack.Screen name="home" options={{ headerShown: false }} />
           <Stack.Screen name="about" options={{ headerShown: false }} />
           <Stack.Screen name="skills" options={{ headerShown: false }} />
           <Stack.Screen name="projects" options={{ headerShown: false }} />
